@@ -148,7 +148,7 @@ public class Book {
 	// ToString() method to show the information about the books. 
 	public String toString() {
 		
-		s
+		
 		
 		return ("Book # "+bookNo+"\nAuthor: "+author+"\nTitle: "+title+"\nISBN: #"+"\nPrice: $");
 	}
