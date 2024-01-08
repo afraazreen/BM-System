@@ -2,7 +2,7 @@
 This project is a Java Console Application which allows the user to keep tracks of books within a bookstore. Essentially, it is a Book Management System.
 
 ## Introduction
-I built this project in the beginning of my Object-Oriented Programming II course, in order to better understand the basics of Object-Oriented Programming I (classes, arrays, and etc.) This system takes Book objects, each characterized by a unique title, author, ISBN and price, and creates a mechanism which will allow the user to track and store books. This management system allows the user to create new books, store them, find all books by a specific author and even find all books below a certain price. Essentially, it is intended to be a management system within a bookstore, intended for use by the owner. 
+I built this project in the end of my Object-Oriented Programming I course, in order to better understand the basics of programming (classes, arrays, and etc.) This system takes Book objects, each characterized by a unique title, author, ISBN and price, and creates a mechanism which will allow the user to track and store books. This management system allows the user to create new books, store them, find all books by a specific author and even find all books below a certain price. Essentially, it is intended to be a management system within a bookstore, intended for use by the owner. 
 
 ## Functionalities
 The program begins by welcoming the user, and then asking for the maximum number of books that their store can contain. Then, a menu with five options is displayed to the user:
