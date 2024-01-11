@@ -1,4 +1,4 @@
-# BM-System
+# Book Management System
 This project is a Java Console Application which allows the user to keep tracks of books within a bookstore. Essentially, it is a Book Management System.
 
 ## Introduction
